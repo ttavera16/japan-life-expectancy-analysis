@@ -25,7 +25,7 @@ Exploratory and descriptive data analysis of life expectancy across Japan’s pr
 ##  Project Structure
 
 ```
-├── Full_Life_Expectancy_Analysis_Japan.ipynb  # Main analysis notebook
+├── Life_Expectancy_Analysis_Japan.ipynb       # Main analysis notebook
 ├── README.md                                  # Project documentation
 └── Japan_life_expectancy.csv                  # Dataset file (add manually if needed)
 ```
